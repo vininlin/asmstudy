@@ -6,13 +6,7 @@ package method;
 import org.objectweb.asm.ClassVisitor;
 import org.objectweb.asm.MethodVisitor;
 
-/**
- * ��/�ӿ�ע��
- * 
- * @author weining.lwn@alibaba-inc.com
- * @createDate 2016��12��30��
- * 
- */
+
 public class AopClassAdapter extends ClassVisitor {
 
     /**

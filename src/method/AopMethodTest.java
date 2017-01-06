@@ -10,13 +10,7 @@ import org.objectweb.asm.ClassVisitor;
 import org.objectweb.asm.ClassWriter;
 import org.objectweb.asm.Opcodes;
 
-/**
- * ��/�ӿ�ע��
- * 
- * @author weining.lwn@alibaba-inc.com
- * @createDate 2016��12��30��
- * 
- */
+
 public class AopMethodTest extends ClassLoader{
 
     /**
